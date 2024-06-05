@@ -1,0 +1,9 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Honeycomb pattern -->
+  <defs>
+    <pattern id="honeycomb" width="20" height="17.32" patternUnits="userSpaceOnUse" patternTransform="rotate(30)">
+      <polygon points="10 0 20 5.7735 20 11.547 10 17.32 0 11.547 0 5.7735 10 0"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#honeycomb)" />
+</svg>
